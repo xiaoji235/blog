@@ -3,7 +3,7 @@ title: vivo主题修改文字教程
 tags: [vivo,主题,教程]
 index_img: https://dl2.img.timecdn.cn/2022/10/28/termux.png
 banner_img: https://b.zhutix.com/bizhi/iWin/02.png
-date: 2022-10-27 21:00:00
+date: 2022-10-28 21:00:00
 ---
 # 前言
 - vivo制作主题时，除了可以修改图片外，还可以通过主题包修改显示的字体！教程适用于funtouch os，origin未知
@@ -34,7 +34,7 @@ date: 2022-10-27 21:00:00
 ```copy
 <?xml version-"1.0" encoding-"utf-8"standalone="no"?>
 <vivo_theme_values>
-<color name-"粘贴你复制的标题名字">填写你想要的颜色（16进制）</string>
+<color name-"粘贴你复制的标题名字">填写你想要的颜色（16进制）</color>
 </vivo_theme_values>
 ```
 
