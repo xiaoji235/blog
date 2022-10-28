@@ -6,6 +6,9 @@ banner_img: https://cdn.sanity.io/images/o180qdl3/production/5b48a59c547c52931f2
 date: 2022-10-27 21:00:00
 ---
 
+记录我的一次建站经验
+<!-- more -->
+
 # 前言
 - 此次教程为本人累积经验而来，请勿转载！
 - 此次教程无需任何除浏览器以外的软件！
