@@ -31,9 +31,13 @@ date: 2022-10-27 21:00:00
 ## 二、创建vercel账户
 - 首先，前往[vercel](vercel.com)，直接绑定你的github账户即可；
 - 然后，会来到一个欢迎界面，里面会有一个黑色的github按钮，直接点github；
+![绑定vercel](https://dl3.img.timecdn.cn/2022/10/28/blog-site1.jpg)
 - 接着，会要求你选一个仓库，直接点右下角Browse All Templates；
+![preview](https://dl.img.timecdn.cn/2022/10/28/blog-site2.jpg)
 - 找到hexo，你可以选择别的博客系统；
+![hexo](https://dl3.img.timecdn.cn/2022/10/28/blog-site3.jpg)
 - 选择后会继续选择github选项，这里后面会让你填写仓库名称，你自己取一个就行，也可以是比如我是xiaoji235，我直接创建一个 xiaoji235.github.io 的仓库，这样不仅vercel和netlify提供的链接可以访问你的博客，搭建完成后在浏览器上输入比如 xiaoji235.github.io 也可以访问！
+![ok](https://dl3.img.timecdn.cn/2022/10/28/blog-site4.png)
 - 由于vercel创建的博客在国内无法访问，这里需要netlify继续
 - 进入[netlify](app.netlify.com)，还是用github登陆，进去后也是会停在欢迎界面，还是找到github那一项，点进去，会提示你链接github仓库，直接链接你刚创建的github仓库；
 - 链接完成后即可使用的的博客了。
