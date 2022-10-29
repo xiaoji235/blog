@@ -38,5 +38,5 @@ Pure中文为纯的，纯净，而Pure 起始页就是为了给用户一个纯�
 - 由于技术问题，我暂时不会制作crx插件文件（crx文件莫名损坏）
 
 # 下载
-- [源码](https://github.com/xiaoji235/Pure-Newtab/)
-- [插件](https://github.com/xiaoji235/Pure-Newtab-Extension)
+<a class="btn" href="https://github.com/xiaoji235/Pure-Newtab/" title="源码">源码</a>
+<a class="btn" href="https://github.com/xiaoji235/Pure-Newtab-Extension" title="插件">插件</a>
