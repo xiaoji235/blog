@@ -1,0 +1,21 @@
+.btn, .btn:hover{
+    color: #fff!important;
+    text-decoration: none;
+}
+.btn{
+background: #2f4154;
+    border-radius: .25rem;
+    display: inline-block;
+    font-size: .875em;
+    line-height: 2;
+    padding: 0 .75rem;
+    transition-property: background;
+    transition-delay: 0s;
+    transition-duration: .2s;
+    transition-timing-function: ease-in-out;
+    box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+    margin-bottom: 1rem;
+}
+a{
+color:#3eaf7c
+}
