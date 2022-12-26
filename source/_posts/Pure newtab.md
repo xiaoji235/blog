@@ -39,3 +39,9 @@ Pure中文为纯的，纯净，而Pure 起始页就是为了给用户一个纯�
 
 # 下载
 <a class="btn" href="https://github.com/xiaoji235/Pure-Newtab/" title="源码">源码</a>&nbsp;&nbsp;<a class="btn" href="https://github.com/xiaoji235/Pure-Newtab-Extension" title="插件">插件</a>
+
+# FAQ
+- Q：为什么感觉插件文件很大很臃肿啊，有1mb多？
+ - A：![又不是不能用！](https://raw.githubusercontent.com/xiaoji235/trash-bin/master/xpoet%E5%9B%BE%E5%BA%8A/useless.jpg)
+- Q：为什么不在商店发布扩展？
+ - A：由于未知问题，打包的扩展总是损坏。
