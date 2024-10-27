@@ -1,8 +1,8 @@
 ---
 title: 欢迎使用Pure起始页！
-tags: [pure newtab]
-index_img: https://dl.img.timecdn.cn/2022/09/18/1.jpg
-banner_img: https://dl.img.timecdn.cn/2022/09/18/1.jpg
+tags: [浏览器主页]
+index_img: https://cdn.jsdelivr.net/gh/xiaoji235/Pure-Newtab/preview/img.png
+banner_img: https://cdn.jsdelivr.net/gh/xiaoji235/Pure-Newtab/preview/img.png
 date: 2022-10-27 20:00:00
 ---
 
@@ -20,8 +20,6 @@ Pure中文为纯的，纯净，而Pure 起始页就是为了给用户一个纯�
 - 中上为时间，实时提醒自己现在几点了；
 - 中间的搜索可以按下左边的图标切换搜索引擎，根据自己喜好来搜索；
 - 中下方为一言，每刷新一次会有不同的语句以及语句的出处。
-## 预览图
-![preview](https://dl3.img.timecdn.cn/2022/01/16/preview.png)
 
 # 使用方法
 ## 源码
